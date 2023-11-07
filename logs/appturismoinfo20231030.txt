@@ -1,0 +1,146 @@
+2023-10-30 10:35:20.721 -03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-10-30 10:35:20.830 -03:00 [DBG] Hosting starting
+2023-10-30 10:35:21.107 -03:00 [INF] Now listening on: https://localhost:7251
+2023-10-30 10:35:21.124 -03:00 [INF] Now listening on: http://localhost:5077
+2023-10-30 10:35:21.126 -03:00 [DBG] Loaded hosting startup assembly AppTurismoAPI
+2023-10-30 10:35:21.127 -03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2023-10-30 10:35:21.132 -03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2023-10-30 10:35:21.137 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-30 10:35:21.140 -03:00 [INF] Hosting environment: Development
+2023-10-30 10:35:21.154 -03:00 [INF] Content root path: C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI
+2023-10-30 10:35:21.157 -03:00 [DBG] Hosting started
+2023-10-30 10:35:21.210 -03:00 [DBG] Connection id "0HMUP9K84LE41" accepted.
+2023-10-30 10:35:21.211 -03:00 [DBG] Connection id "0HMUP9K84LE42" accepted.
+2023-10-30 10:35:21.215 -03:00 [DBG] Connection id "0HMUP9K84LE41" started.
+2023-10-30 10:35:21.217 -03:00 [DBG] Connection id "0HMUP9K84LE41" received FIN.
+2023-10-30 10:35:21.218 -03:00 [DBG] Connection id "0HMUP9K84LE42" received FIN.
+2023-10-30 10:35:21.223 -03:00 [DBG] Connection id "0HMUP9K84LE42" started.
+2023-10-30 10:35:21.257 -03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-10-30 10:35:21.274 -03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-10-30 10:35:21.435 -03:00 [DBG] Connection id "0HMUP9K84LE42" stopped.
+2023-10-30 10:35:21.435 -03:00 [DBG] Connection id "0HMUP9K84LE41" stopped.
+2023-10-30 10:35:21.451 -03:00 [DBG] Connection id "0HMUP9K84LE42" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-10-30 10:35:21.485 -03:00 [DBG] Connection id "0HMUP9K84LE41" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-10-30 10:35:22.132 -03:00 [DBG] Connection id "0HMUP9K84LE43" accepted.
+2023-10-30 10:35:22.134 -03:00 [DBG] Connection id "0HMUP9K84LE43" started.
+2023-10-30 10:35:22.190 -03:00 [DBG] Connection 0HMUP9K84LE43 established using the following protocol: "Tls13"
+2023-10-30 10:35:22.369 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/index.html - -
+2023-10-30 10:35:22.413 -03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2023-10-30 10:35:22.614 -03:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2023-10-30 10:35:22.644 -03:00 [DBG] Response markup was updated to include browser refresh script injection.
+2023-10-30 10:35:22.649 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/index.html - - - 200 - text/html;charset=utf-8 286.8866ms
+2023-10-30 10:35:22.667 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2023-10-30 10:35:22.680 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 12.1229ms
+2023-10-30 10:35:22.685 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2023-10-30 10:35:22.733 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.0823ms
+2023-10-30 10:35:22.849 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - -
+2023-10-30 10:35:23.010 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 160.9266ms
+2023-10-30 10:35:25.665 -03:00 [DBG] Connection id "0HMUP9K84LE43" received FIN.
+2023-10-30 10:35:25.668 -03:00 [DBG] The connection queue processing loop for 0HMUP9K84LE43 completed.
+2023-10-30 10:35:25.671 -03:00 [DBG] Connection id "0HMUP9K84LE43" is closed. The last processed stream ID was 7.
+2023-10-30 10:35:25.672 -03:00 [DBG] Connection id "0HMUP9K84LE43" sending FIN because: "The client closed the connection."
+2023-10-30 10:35:25.674 -03:00 [DBG] Connection id "0HMUP9K84LE43" stopped.
+2023-10-30 10:36:45.780 -03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-10-30 10:36:45.897 -03:00 [DBG] Hosting starting
+2023-10-30 10:36:46.057 -03:00 [INF] Now listening on: https://localhost:7251
+2023-10-30 10:36:46.058 -03:00 [INF] Now listening on: http://localhost:5077
+2023-10-30 10:36:46.059 -03:00 [DBG] Loaded hosting startup assembly AppTurismoAPI
+2023-10-30 10:36:46.060 -03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2023-10-30 10:36:46.061 -03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2023-10-30 10:36:46.062 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-30 10:36:46.063 -03:00 [INF] Hosting environment: Development
+2023-10-30 10:36:46.069 -03:00 [INF] Content root path: C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI
+2023-10-30 10:36:46.070 -03:00 [DBG] Hosting started
+2023-10-30 10:36:46.090 -03:00 [DBG] Connection id "0HMUP9L1E4N6R" received FIN.
+2023-10-30 10:36:46.090 -03:00 [DBG] Connection id "0HMUP9L1E4N6Q" received FIN.
+2023-10-30 10:36:46.096 -03:00 [DBG] Connection id "0HMUP9L1E4N6R" accepted.
+2023-10-30 10:36:46.096 -03:00 [DBG] Connection id "0HMUP9L1E4N6Q" accepted.
+2023-10-30 10:36:46.100 -03:00 [DBG] Connection id "0HMUP9L1E4N6Q" started.
+2023-10-30 10:36:46.100 -03:00 [DBG] Connection id "0HMUP9L1E4N6R" started.
+2023-10-30 10:36:46.123 -03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-10-30 10:36:46.123 -03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-10-30 10:36:46.175 -03:00 [DBG] Connection id "0HMUP9L1E4N6Q" stopped.
+2023-10-30 10:36:46.176 -03:00 [DBG] Connection id "0HMUP9L1E4N6R" stopped.
+2023-10-30 10:36:46.188 -03:00 [DBG] Connection id "0HMUP9L1E4N6Q" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-10-30 10:36:46.197 -03:00 [DBG] Connection id "0HMUP9L1E4N6R" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-10-30 10:36:46.989 -03:00 [DBG] Connection id "0HMUP9L1E4N6S" accepted.
+2023-10-30 10:36:47.010 -03:00 [DBG] Connection id "0HMUP9L1E4N6S" started.
+2023-10-30 10:36:47.089 -03:00 [DBG] Connection 0HMUP9L1E4N6S established using the following protocol: "Tls13"
+2023-10-30 10:36:47.192 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/index.html - -
+2023-10-30 10:36:47.226 -03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2023-10-30 10:36:47.423 -03:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2023-10-30 10:36:47.457 -03:00 [DBG] Response markup was updated to include browser refresh script injection.
+2023-10-30 10:36:47.470 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/index.html - - - 200 - text/html;charset=utf-8 274.9857ms
+2023-10-30 10:36:47.505 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2023-10-30 10:36:47.505 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2023-10-30 10:36:47.520 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 14.6291ms
+2023-10-30 10:36:47.575 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 69.2280ms
+2023-10-30 10:36:47.630 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - -
+2023-10-30 10:36:47.932 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 302.3735ms
+2023-10-30 10:36:50.947 -03:00 [DBG] Connection id "0HMUP9L1E4N6T" accepted.
+2023-10-30 10:36:50.947 -03:00 [DBG] Connection id "0HMUP9L1E4N6T" received FIN.
+2023-10-30 10:36:50.948 -03:00 [DBG] Connection id "0HMUP9L1E4N6T" started.
+2023-10-30 10:36:50.949 -03:00 [DBG] Connection id "0HMUP9L1E4N6U" accepted.
+2023-10-30 10:36:50.950 -03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-10-30 10:36:50.951 -03:00 [DBG] Connection id "0HMUP9L1E4N6U" started.
+2023-10-30 10:36:50.954 -03:00 [DBG] Connection id "0HMUP9L1E4N6T" stopped.
+2023-10-30 10:36:50.955 -03:00 [DBG] Connection id "0HMUP9L1E4N6T" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-10-30 10:36:50.958 -03:00 [DBG] Connection 0HMUP9L1E4N6U established using the following protocol: "Tls13"
+2023-10-30 10:36:50.968 -03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7251/api/cidades/4/pontosturisticos - -
+2023-10-30 10:36:50.971 -03:00 [DBG] The request path  does not match the path filter
+2023-10-30 10:36:50.996 -03:00 [DBG] 1 candidate(s) found for the request path '/api/cidades/4/pontosturisticos'
+2023-10-30 10:36:50.999 -03:00 [DBG] Endpoint 'AppTurismoAPI.Controllers.PontosTuristicosController.GetPontosTuristicos (AppTurismoAPI)' with route pattern 'api/cidades/{cidadeId}/pontosturisticos' is valid for the request path '/api/cidades/4/pontosturisticos'
+2023-10-30 10:36:51.000 -03:00 [DBG] Request matched endpoint 'AppTurismoAPI.Controllers.PontosTuristicosController.GetPontosTuristicos (AppTurismoAPI)'
+2023-10-30 10:36:51.004 -03:00 [INF] Executing endpoint 'AppTurismoAPI.Controllers.PontosTuristicosController.GetPontosTuristicos (AppTurismoAPI)'
+2023-10-30 10:36:51.035 -03:00 [INF] Route matched with {action = "GetPontosTuristicos", controller = "PontosTuristicos"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[AppTurismoAPI.Models.PontosTuristicosDto]] GetPontosTuristicos(Int32) on controller AppTurismoAPI.Controllers.PontosTuristicosController (AppTurismoAPI).
+2023-10-30 10:36:51.038 -03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-10-30 10:36:51.038 -03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2023-10-30 10:36:51.040 -03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2023-10-30 10:36:51.041 -03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-10-30 10:36:51.042 -03:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2023-10-30 10:36:51.045 -03:00 [DBG] Executing controller factory for controller AppTurismoAPI.Controllers.PontosTuristicosController (AppTurismoAPI)
+2023-10-30 10:36:51.047 -03:00 [DBG] Executed controller factory for controller AppTurismoAPI.Controllers.PontosTuristicosController (AppTurismoAPI)
+2023-10-30 10:36:51.061 -03:00 [DBG] Attempting to bind parameter 'cidadeId' of type 'System.Int32' ...
+2023-10-30 10:36:51.063 -03:00 [DBG] Attempting to bind parameter 'cidadeId' of type 'System.Int32' using the name 'cidadeId' in request data ...
+2023-10-30 10:36:51.065 -03:00 [DBG] Done attempting to bind parameter 'cidadeId' of type 'System.Int32'.
+2023-10-30 10:36:51.066 -03:00 [DBG] Done attempting to bind parameter 'cidadeId' of type 'System.Int32'.
+2023-10-30 10:36:51.067 -03:00 [DBG] Attempting to validate the bound parameter 'cidadeId' of type 'System.Int32' ...
+2023-10-30 10:36:51.069 -03:00 [DBG] Done attempting to validate the bound parameter 'cidadeId' of type 'System.Int32'.
+2023-10-30 10:36:51.143 -03:00 [INF] Executing action method AppTurismoAPI.Controllers.PontosTuristicosController.GetPontosTuristicos (AppTurismoAPI) - Validation state: "Valid"
+2023-10-30 10:36:51.147 -03:00 [INF] A cidade com id 4 não foi encontrada.
+2023-10-30 10:36:51.151 -03:00 [INF] Executed action method AppTurismoAPI.Controllers.PontosTuristicosController.GetPontosTuristicos (AppTurismoAPI), returned result Microsoft.AspNetCore.Mvc.NotFoundObjectResult in 3.5034ms.
+2023-10-30 10:36:51.156 -03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter"]
+2023-10-30 10:36:51.159 -03:00 [DBG] No information found on request to perform content negotiation.
+2023-10-30 10:36:51.160 -03:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-10-30 10:36:51.160 -03:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-10-30 10:36:51.163 -03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+2023-10-30 10:36:51.164 -03:00 [INF] Executing NotFoundObjectResult, writing value of type 'System.String'.
+2023-10-30 10:36:51.171 -03:00 [INF] Executed action AppTurismoAPI.Controllers.PontosTuristicosController.GetPontosTuristicos (AppTurismoAPI) in 124.0256ms
+2023-10-30 10:36:51.173 -03:00 [INF] Executed endpoint 'AppTurismoAPI.Controllers.PontosTuristicosController.GetPontosTuristicos (AppTurismoAPI)'
+2023-10-30 10:36:51.174 -03:00 [DBG] Connection id "0HMUP9L1E4N6U" completed keep alive response.
+2023-10-30 10:36:51.175 -03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7251/api/cidades/4/pontosturisticos - - - 404 - text/plain;+charset=utf-8 206.7204ms
+2023-10-30 10:36:51.581 -03:00 [DBG] Connection id "0HMUP9L1E4N6S" received FIN.
+2023-10-30 10:36:51.586 -03:00 [DBG] The connection queue processing loop for 0HMUP9L1E4N6S completed.
+2023-10-30 10:36:51.587 -03:00 [DBG] Connection id "0HMUP9L1E4N6S" is closed. The last processed stream ID was 7.
+2023-10-30 10:36:51.588 -03:00 [DBG] Connection id "0HMUP9L1E4N6S" sending FIN because: "The client closed the connection."
+2023-10-30 10:36:51.590 -03:00 [DBG] Connection id "0HMUP9L1E4N6S" stopped.

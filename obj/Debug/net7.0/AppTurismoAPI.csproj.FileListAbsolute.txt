@@ -1,0 +1,184 @@
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.exe
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.deps.json
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.runtimeconfig.json
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.pdb
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.csproj.AssemblyReference.cache
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.AssemblyInfoInputs.cache
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.AssemblyInfo.cs
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\staticwebassets\msbuild.AppTurismoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AppTurismoAPI.props
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppTurismoAPI.props
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppTurismoAPI.props
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\scopedcss\bundle\AppTurismoAPI.styles.css
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.csproj.CopyComplete
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\refint\AppTurismoAPI.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.pdb
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.genruntimeconfig.cache
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\obj\Debug\net7.0\ref\AppTurismoAPI.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\getting-started-with-rest-slides.pdf
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Serilog.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\guilherme.diniz\Desktop\AppTurismoAPI\AppTurismoAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.exe
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\getting-started-with-rest-slides.pdf
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.deps.json
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.runtimeconfig.json
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\AppTurismoAPI.pdb
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Serilog.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.csproj.AssemblyReference.cache
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.AssemblyInfoInputs.cache
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.AssemblyInfo.cs
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\staticwebassets\msbuild.AppTurismoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AppTurismoAPI.props
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppTurismoAPI.props
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppTurismoAPI.props
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\scopedcss\bundle\AppTurismoAPI.styles.css
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.csproj.CopyComplete
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\refint\AppTurismoAPI.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.pdb
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\AppTurismoAPI.genruntimeconfig.cache
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\ref\AppTurismoAPI.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
