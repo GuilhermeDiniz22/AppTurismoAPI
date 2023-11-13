@@ -182,3 +182,9 @@ C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismo
 C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\obj\Debug\net7.0\ref\AppTurismoAPI.dll
 C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\libman.json
+C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll

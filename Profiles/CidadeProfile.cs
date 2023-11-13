@@ -8,8 +8,10 @@ namespace AppTurismoAPI.Profiles
     {
         public CidadeProfile()
         {
-            CreateMap<Cidade, CidadeSemPontoTuristicoDto>();
-            CreateMap<Cidade, CidadeDto>(0);
+            CreateMap<Cidade, CidadeSemPontoTuristicoDto>().ReverseMap();
+            CreateMap<Cidade, CidadeDto>().ReverseMap();
+            CreateMap<Cidade, CidadePostDto>().ReverseMap();
+            CreateMap<Cidade, CidadePutDto>().ReverseMap();
         }
     }
 }

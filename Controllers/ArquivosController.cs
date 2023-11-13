@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.StaticFiles;
 
 namespace AppTurismoAPI.Controllers
 {
+    [Authorize]
     [Route("api/arquivos")]
     [ApiController]
     public class ArquivosController : ControllerBase

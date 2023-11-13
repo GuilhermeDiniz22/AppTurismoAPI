@@ -1,0 +1,280 @@
+2023-11-08 20:07:29.493 -03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-08 20:07:31.155 -03:00 [DBG] Hosting starting
+2023-11-08 20:07:37.148 -03:00 [INF] Now listening on: https://localhost:7251
+2023-11-08 20:07:37.274 -03:00 [INF] Now listening on: http://localhost:5077
+2023-11-08 20:07:37.460 -03:00 [DBG] Connection id "0HMV0LU004S4A" accepted.
+2023-11-08 20:07:37.543 -03:00 [DBG] Connection id "0HMV0LU004S4A" received FIN.
+2023-11-08 20:07:37.670 -03:00 [DBG] Loaded hosting startup assembly AppTurismoAPI
+2023-11-08 20:07:38.487 -03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2023-11-08 20:07:38.489 -03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2023-11-08 20:07:38.491 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-08 20:07:38.493 -03:00 [INF] Hosting environment: Development
+2023-11-08 20:07:38.495 -03:00 [INF] Content root path: C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI
+2023-11-08 20:07:38.498 -03:00 [DBG] Hosting started
+2023-11-08 20:07:38.547 -03:00 [DBG] Connection id "0HMV0LU004S4A" started.
+2023-11-08 20:07:38.943 -03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-08 20:07:39.898 -03:00 [DBG] Connection id "0HMV0LU004S4B" accepted.
+2023-11-08 20:07:41.435 -03:00 [DBG] Connection id "0HMV0LU004S4A" stopped.
+2023-11-08 20:07:42.272 -03:00 [DBG] Connection id "0HMV0LU004S4B" started.
+2023-11-08 20:07:42.505 -03:00 [DBG] Connection id "0HMV0LU004S4A" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-08 20:07:43.980 -03:00 [DBG] Connection 0HMV0LU004S4B established using the following protocol: "Tls13"
+2023-11-08 20:07:45.375 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/index.html - -
+2023-11-08 20:07:45.679 -03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2023-11-08 20:07:46.604 -03:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2023-11-08 20:07:51.351 -03:00 [DBG] Response markup was updated to include browser refresh script injection.
+2023-11-08 20:07:51.563 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2023-11-08 20:07:51.654 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/index.html - - - 200 - text/html;charset=utf-8 6335.7816ms
+2023-11-08 20:07:51.980 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 12358 application/javascript;+charset=utf-8 418.0455ms
+2023-11-08 20:07:52.399 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2023-11-08 20:07:54.536 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 2137.2762ms
+2023-11-08 20:07:54.935 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - -
+2023-11-08 20:07:57.130 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2186.9059ms
+2023-11-08 20:08:01.024 -03:00 [DBG] Connection id "0HMV0LU004S4B" received FIN.
+2023-11-08 20:08:03.121 -03:00 [DBG] Connection id "0HMV0LU004S4B" is closed. The last processed stream ID was 7.
+2023-11-08 20:08:03.128 -03:00 [DBG] The connection queue processing loop for 0HMV0LU004S4B completed.
+2023-11-08 20:08:03.166 -03:00 [DBG] Connection id "0HMV0LU004S4B" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-08 20:08:03.218 -03:00 [DBG] Connection id "0HMV0LU004S4B" stopped.
+2023-11-08 20:08:20.271 -03:00 [DBG] Connection id "0HMV0LU004S4C" accepted.
+2023-11-08 20:08:20.337 -03:00 [DBG] Connection id "0HMV0LU004S4C" started.
+2023-11-08 20:08:20.704 -03:00 [DBG] Connection 0HMV0LU004S4C established using the following protocol: "Tls13"
+2023-11-08 20:08:21.168 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/api/cidades?paginaNumero=1&paginaTamanho=1 - -
+2023-11-08 20:08:21.289 -03:00 [DBG] The request path  does not match the path filter
+2023-11-08 20:08:21.782 -03:00 [DBG] 1 candidate(s) found for the request path '/api/cidades'
+2023-11-08 20:08:21.896 -03:00 [DBG] Endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)' with route pattern 'api/cidades' is valid for the request path '/api/cidades'
+2023-11-08 20:08:22.042 -03:00 [DBG] Request matched endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)'
+2023-11-08 20:08:22.238 -03:00 [INF] Executing endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)'
+2023-11-08 20:08:23.155 -03:00 [INF] Route matched with {action = "GetCidades", controller = "Cidades"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[AppTurismoAPI.Models.CidadeSemPontoTuristicoDto]]] GetCidades(System.String, System.String, Int32, Int32) on controller AppTurismoAPI.Controllers.CidadesController (AppTurismoAPI).
+2023-11-08 20:08:23.241 -03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-11-08 20:08:23.367 -03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2023-11-08 20:08:23.437 -03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2023-11-08 20:08:23.484 -03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-11-08 20:08:23.523 -03:00 [DBG] Execution plan of result filters (in the following order): ["None"]
+2023-11-08 20:08:23.639 -03:00 [DBG] Executing controller factory for controller AppTurismoAPI.Controllers.CidadesController (AppTurismoAPI)
+2023-11-08 20:08:26.920 -03:00 [DBG] Executed controller factory for controller AppTurismoAPI.Controllers.CidadesController (AppTurismoAPI)
+2023-11-08 20:08:27.146 -03:00 [DBG] Attempting to bind parameter 'nome' of type 'System.String' ...
+2023-11-08 20:08:27.298 -03:00 [DBG] Attempting to bind parameter 'nome' of type 'System.String' using the name '' in request data ...
+2023-11-08 20:08:27.470 -03:00 [DBG] Could not find a value in the request with name '' for binding parameter 'nome' of type 'System.String'.
+2023-11-08 20:08:27.472 -03:00 [DBG] Done attempting to bind parameter 'nome' of type 'System.String'.
+2023-11-08 20:08:27.473 -03:00 [DBG] Done attempting to bind parameter 'nome' of type 'System.String'.
+2023-11-08 20:08:27.474 -03:00 [DBG] Attempting to validate the bound parameter 'nome' of type 'System.String' ...
+2023-11-08 20:08:27.480 -03:00 [DBG] Done attempting to validate the bound parameter 'nome' of type 'System.String'.
+2023-11-08 20:08:27.483 -03:00 [DBG] Attempting to bind parameter 'filtro' of type 'System.String' ...
+2023-11-08 20:08:27.484 -03:00 [DBG] Attempting to bind parameter 'filtro' of type 'System.String' using the name '' in request data ...
+2023-11-08 20:08:27.486 -03:00 [DBG] Could not find a value in the request with name '' for binding parameter 'filtro' of type 'System.String'.
+2023-11-08 20:08:27.487 -03:00 [DBG] Done attempting to bind parameter 'filtro' of type 'System.String'.
+2023-11-08 20:08:27.488 -03:00 [DBG] Done attempting to bind parameter 'filtro' of type 'System.String'.
+2023-11-08 20:08:27.489 -03:00 [DBG] Attempting to validate the bound parameter 'filtro' of type 'System.String' ...
+2023-11-08 20:08:27.958 -03:00 [DBG] Done attempting to validate the bound parameter 'filtro' of type 'System.String'.
+2023-11-08 20:08:27.972 -03:00 [DBG] Attempting to bind parameter 'paginaNumero' of type 'System.Int32' ...
+2023-11-08 20:08:29.404 -03:00 [DBG] Attempting to bind parameter 'paginaNumero' of type 'System.Int32' using the name 'paginaNumero' in request data ...
+2023-11-08 20:08:30.851 -03:00 [DBG] Done attempting to bind parameter 'paginaNumero' of type 'System.Int32'.
+2023-11-08 20:08:30.873 -03:00 [DBG] Done attempting to bind parameter 'paginaNumero' of type 'System.Int32'.
+2023-11-08 20:08:30.903 -03:00 [DBG] Attempting to validate the bound parameter 'paginaNumero' of type 'System.Int32' ...
+2023-11-08 20:08:30.923 -03:00 [DBG] Done attempting to validate the bound parameter 'paginaNumero' of type 'System.Int32'.
+2023-11-08 20:08:30.971 -03:00 [DBG] Attempting to bind parameter 'paginaTamanho' of type 'System.Int32' ...
+2023-11-08 20:08:30.990 -03:00 [DBG] Attempting to bind parameter 'paginaTamanho' of type 'System.Int32' using the name 'paginaTamanho' in request data ...
+2023-11-08 20:08:31.717 -03:00 [DBG] Done attempting to bind parameter 'paginaTamanho' of type 'System.Int32'.
+2023-11-08 20:08:31.821 -03:00 [DBG] Done attempting to bind parameter 'paginaTamanho' of type 'System.Int32'.
+2023-11-08 20:08:31.855 -03:00 [DBG] Attempting to validate the bound parameter 'paginaTamanho' of type 'System.Int32' ...
+2023-11-08 20:08:31.931 -03:00 [DBG] Done attempting to validate the bound parameter 'paginaTamanho' of type 'System.Int32'.
+2023-11-08 20:09:02.485 -03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2023-11-08 20:09:02.525 -03:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2023-11-08 20:09:02.623 -03:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2023-11-08 20:09:02.711 -03:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-11-08 20:09:02.749 -03:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-11-08 20:09:02.821 -03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2023-11-08 20:09:02.894 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AppTurismoAPI.Models.CidadeSemPontoTuristicoDto, AppTurismoAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-11-08 20:09:03.144 -03:00 [INF] Executed action AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI) in 39508.0279ms
+2023-11-08 20:09:03.338 -03:00 [INF] Executed endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)'
+2023-11-08 20:09:03.993 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/api/cidades?paginaNumero=1&paginaTamanho=1 - - - 200 - application/json;+charset=utf-8 42816.4429ms
+2023-11-08 20:09:11.106 -03:00 [DBG] Connection id "0HMV0LU004S4C" received FIN.
+2023-11-08 20:09:11.150 -03:00 [DBG] Connection id "0HMV0LU004S4C" is closed. The last processed stream ID was 1.
+2023-11-08 20:09:11.167 -03:00 [DBG] The connection queue processing loop for 0HMV0LU004S4C completed.
+2023-11-08 20:09:11.199 -03:00 [DBG] Connection id "0HMV0LU004S4C" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-08 20:09:11.230 -03:00 [DBG] Connection id "0HMV0LU004S4C" stopped.
+2023-11-08 20:10:25.043 -03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-08 20:10:27.264 -03:00 [DBG] Hosting starting
+2023-11-08 20:10:28.407 -03:00 [INF] Now listening on: https://localhost:7251
+2023-11-08 20:10:28.530 -03:00 [INF] Now listening on: http://localhost:5077
+2023-11-08 20:10:28.571 -03:00 [DBG] Loaded hosting startup assembly AppTurismoAPI
+2023-11-08 20:10:28.602 -03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2023-11-08 20:10:28.817 -03:00 [DBG] Connection id "0HMV0LVJ2AMD1" reset.
+2023-11-08 20:10:28.846 -03:00 [DBG] Connection id "0HMV0LVJ2AMD2" reset.
+2023-11-08 20:10:29.393 -03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2023-11-08 20:10:29.397 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-08 20:10:29.399 -03:00 [INF] Hosting environment: Development
+2023-11-08 20:10:29.401 -03:00 [INF] Content root path: C:\Users\Karla Reis\Desktop\AppTurismoAPI\AppTurismoAPI.NET-CORE-main\AppTurismoAPI
+2023-11-08 20:10:29.403 -03:00 [DBG] Connection id "0HMV0LVJ2AMD2" accepted.
+2023-11-08 20:10:29.403 -03:00 [DBG] Connection id "0HMV0LVJ2AMD1" accepted.
+2023-11-08 20:10:29.403 -03:00 [DBG] Hosting started
+2023-11-08 20:10:29.407 -03:00 [DBG] Connection id "0HMV0LVJ2AMD1" started.
+2023-11-08 20:10:29.407 -03:00 [DBG] Connection id "0HMV0LVJ2AMD2" started.
+2023-11-08 20:10:29.452 -03:00 [DBG] Failed to authenticate HTTPS connection.
+Microsoft.AspNetCore.Connections.ConnectionResetException: Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+ ---> System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   --- End of inner exception stack trace ---
+   at System.IO.Pipelines.Pipe.GetReadResult(ReadResult& result)
+   at System.IO.Pipelines.Pipe.ReadAsync(CancellationToken token)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.DuplexPipeStream.ReadAsyncInternal(Memory`1 destination, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-08 20:10:30.373 -03:00 [DBG] Connection id "0HMV0LVJ2AMD3" accepted.
+2023-11-08 20:10:29.633 -03:00 [DBG] Failed to authenticate HTTPS connection.
+Microsoft.AspNetCore.Connections.ConnectionResetException: Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+ ---> System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   --- End of inner exception stack trace ---
+   at System.IO.Pipelines.Pipe.GetReadResult(ReadResult& result)
+   at System.IO.Pipelines.Pipe.ReadAsync(CancellationToken token)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.DuplexPipeStream.ReadAsyncInternal(Memory`1 destination, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-08 20:10:31.911 -03:00 [DBG] Connection id "0HMV0LVJ2AMD1" stopped.
+2023-11-08 20:10:32.706 -03:00 [DBG] Connection id "0HMV0LVJ2AMD3" started.
+2023-11-08 20:10:32.850 -03:00 [DBG] Connection id "0HMV0LVJ2AMD2" stopped.
+2023-11-08 20:10:33.123 -03:00 [DBG] Connection id "0HMV0LVJ2AMD1" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-08 20:10:33.818 -03:00 [DBG] Connection 0HMV0LVJ2AMD3 established using the following protocol: "Tls13"
+2023-11-08 20:10:33.871 -03:00 [DBG] Connection id "0HMV0LVJ2AMD2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-08 20:10:34.919 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/index.html - -
+2023-11-08 20:10:35.700 -03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2023-11-08 20:10:38.023 -03:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2023-11-08 20:10:40.411 -03:00 [DBG] Response markup was updated to include browser refresh script injection.
+2023-11-08 20:10:40.447 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2023-11-08 20:10:40.478 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/index.html - - - 200 - text/html;charset=utf-8 5654.0768ms
+2023-11-08 20:10:40.713 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2023-11-08 20:10:40.842 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 12358 application/javascript;+charset=utf-8 391.9062ms
+2023-11-08 20:10:42.012 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1298.7344ms
+2023-11-08 20:10:42.705 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - -
+2023-11-08 20:10:45.529 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2820.6554ms
+2023-11-08 20:10:51.253 -03:00 [DBG] Connection id "0HMV0LVJ2AMD3" received FIN.
+2023-11-08 20:10:52.339 -03:00 [DBG] Connection id "0HMV0LVJ2AMD3" is closed. The last processed stream ID was 7.
+2023-11-08 20:10:52.353 -03:00 [DBG] The connection queue processing loop for 0HMV0LVJ2AMD3 completed.
+2023-11-08 20:10:52.620 -03:00 [DBG] Connection id "0HMV0LVJ2AMD3" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-08 20:10:53.858 -03:00 [DBG] Connection id "0HMV0LVJ2AMD3" stopped.
+2023-11-08 20:11:04.015 -03:00 [DBG] Connection id "0HMV0LVJ2AMD4" accepted.
+2023-11-08 20:11:05.129 -03:00 [DBG] Connection id "0HMV0LVJ2AMD4" started.
+2023-11-08 20:11:05.581 -03:00 [DBG] Connection 0HMV0LVJ2AMD4 established using the following protocol: "Tls13"
+2023-11-08 20:11:09.276 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/api/cidades?paginaNumero=1&paginaTamanho=10 - -
+2023-11-08 20:11:09.459 -03:00 [DBG] The request path  does not match the path filter
+2023-11-08 20:11:09.683 -03:00 [DBG] 1 candidate(s) found for the request path '/api/cidades'
+2023-11-08 20:11:11.708 -03:00 [DBG] Endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)' with route pattern 'api/cidades' is valid for the request path '/api/cidades'
+2023-11-08 20:11:11.710 -03:00 [DBG] Request matched endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)'
+2023-11-08 20:11:11.714 -03:00 [INF] Executing endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)'
+2023-11-08 20:11:12.180 -03:00 [INF] Route matched with {action = "GetCidades", controller = "Cidades"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[AppTurismoAPI.Models.CidadeSemPontoTuristicoDto]]] GetCidades(System.String, System.String, Int32, Int32) on controller AppTurismoAPI.Controllers.CidadesController (AppTurismoAPI).
+2023-11-08 20:11:14.457 -03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-11-08 20:11:14.459 -03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2023-11-08 20:11:14.461 -03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2023-11-08 20:11:14.462 -03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-11-08 20:11:14.463 -03:00 [DBG] Execution plan of result filters (in the following order): ["None"]
+2023-11-08 20:11:14.466 -03:00 [DBG] Executing controller factory for controller AppTurismoAPI.Controllers.CidadesController (AppTurismoAPI)
+2023-11-08 20:11:18.578 -03:00 [DBG] Executed controller factory for controller AppTurismoAPI.Controllers.CidadesController (AppTurismoAPI)
+2023-11-08 20:11:20.327 -03:00 [DBG] Attempting to bind parameter 'nome' of type 'System.String' ...
+2023-11-08 20:11:20.579 -03:00 [DBG] Attempting to bind parameter 'nome' of type 'System.String' using the name '' in request data ...
+2023-11-08 20:11:20.581 -03:00 [DBG] Could not find a value in the request with name '' for binding parameter 'nome' of type 'System.String'.
+2023-11-08 20:11:20.583 -03:00 [DBG] Done attempting to bind parameter 'nome' of type 'System.String'.
+2023-11-08 20:11:20.584 -03:00 [DBG] Done attempting to bind parameter 'nome' of type 'System.String'.
+2023-11-08 20:11:20.586 -03:00 [DBG] Attempting to validate the bound parameter 'nome' of type 'System.String' ...
+2023-11-08 20:11:20.591 -03:00 [DBG] Done attempting to validate the bound parameter 'nome' of type 'System.String'.
+2023-11-08 20:11:20.594 -03:00 [DBG] Attempting to bind parameter 'filtro' of type 'System.String' ...
+2023-11-08 20:11:20.596 -03:00 [DBG] Attempting to bind parameter 'filtro' of type 'System.String' using the name '' in request data ...
+2023-11-08 20:11:20.597 -03:00 [DBG] Could not find a value in the request with name '' for binding parameter 'filtro' of type 'System.String'.
+2023-11-08 20:11:20.599 -03:00 [DBG] Done attempting to bind parameter 'filtro' of type 'System.String'.
+2023-11-08 20:11:20.600 -03:00 [DBG] Done attempting to bind parameter 'filtro' of type 'System.String'.
+2023-11-08 20:11:20.601 -03:00 [DBG] Attempting to validate the bound parameter 'filtro' of type 'System.String' ...
+2023-11-08 20:11:20.602 -03:00 [DBG] Done attempting to validate the bound parameter 'filtro' of type 'System.String'.
+2023-11-08 20:11:20.606 -03:00 [DBG] Attempting to bind parameter 'paginaNumero' of type 'System.Int32' ...
+2023-11-08 20:11:20.607 -03:00 [DBG] Attempting to bind parameter 'paginaNumero' of type 'System.Int32' using the name 'paginaNumero' in request data ...
+2023-11-08 20:11:20.610 -03:00 [DBG] Done attempting to bind parameter 'paginaNumero' of type 'System.Int32'.
+2023-11-08 20:11:20.611 -03:00 [DBG] Done attempting to bind parameter 'paginaNumero' of type 'System.Int32'.
+2023-11-08 20:11:20.612 -03:00 [DBG] Attempting to validate the bound parameter 'paginaNumero' of type 'System.Int32' ...
+2023-11-08 20:11:20.615 -03:00 [DBG] Done attempting to validate the bound parameter 'paginaNumero' of type 'System.Int32'.
+2023-11-08 20:11:20.616 -03:00 [DBG] Attempting to bind parameter 'paginaTamanho' of type 'System.Int32' ...
+2023-11-08 20:11:20.617 -03:00 [DBG] Attempting to bind parameter 'paginaTamanho' of type 'System.Int32' using the name 'paginaTamanho' in request data ...
+2023-11-08 20:11:20.619 -03:00 [DBG] Done attempting to bind parameter 'paginaTamanho' of type 'System.Int32'.
+2023-11-08 20:11:20.622 -03:00 [DBG] Done attempting to bind parameter 'paginaTamanho' of type 'System.Int32'.
+2023-11-08 20:11:20.624 -03:00 [DBG] Attempting to validate the bound parameter 'paginaTamanho' of type 'System.Int32' ...
+2023-11-08 20:11:20.625 -03:00 [DBG] Done attempting to validate the bound parameter 'paginaTamanho' of type 'System.Int32'.
+2023-11-08 20:11:59.032 -03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2023-11-08 20:11:59.312 -03:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2023-11-08 20:11:59.468 -03:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2023-11-08 20:11:59.544 -03:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-11-08 20:11:59.598 -03:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-11-08 20:11:59.711 -03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2023-11-08 20:12:01.233 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AppTurismoAPI.Models.CidadeSemPontoTuristicoDto, AppTurismoAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-11-08 20:12:01.521 -03:00 [INF] Executed action AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI) in 46962.0058ms
+2023-11-08 20:12:01.719 -03:00 [INF] Executed endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)'
+2023-11-08 20:12:01.810 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/api/cidades?paginaNumero=1&paginaTamanho=10 - - - 200 - application/json;+charset=utf-8 52533.6505ms
+2023-11-08 20:12:06.373 -03:00 [DBG] Connection id "0HMV0LVJ2AMD4" received FIN.
+2023-11-08 20:12:06.552 -03:00 [DBG] Connection id "0HMV0LVJ2AMD4" is closed. The last processed stream ID was 1.
+2023-11-08 20:12:06.561 -03:00 [DBG] The connection queue processing loop for 0HMV0LVJ2AMD4 completed.
+2023-11-08 20:12:06.591 -03:00 [DBG] Connection id "0HMV0LVJ2AMD4" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-08 20:12:06.800 -03:00 [DBG] Connection id "0HMV0LVJ2AMD4" stopped.
+2023-11-08 20:12:06.967 -03:00 [DBG] Connection id "0HMV0LVJ2AMD5" accepted.
+2023-11-08 20:12:07.430 -03:00 [DBG] Connection id "0HMV0LVJ2AMD5" started.
+2023-11-08 20:12:07.580 -03:00 [DBG] Connection 0HMV0LVJ2AMD5 established using the following protocol: "Tls13"
+2023-11-08 20:12:07.797 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7251/api/cidades?paginaNumero=1&paginaTamanho=1 - -
+2023-11-08 20:12:07.944 -03:00 [DBG] The request path  does not match the path filter
+2023-11-08 20:12:08.031 -03:00 [DBG] 1 candidate(s) found for the request path '/api/cidades'
+2023-11-08 20:12:08.995 -03:00 [DBG] Endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)' with route pattern 'api/cidades' is valid for the request path '/api/cidades'
+2023-11-08 20:12:09.084 -03:00 [DBG] Request matched endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)'
+2023-11-08 20:12:09.155 -03:00 [INF] Executing endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)'
+2023-11-08 20:12:09.246 -03:00 [INF] Route matched with {action = "GetCidades", controller = "Cidades"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[AppTurismoAPI.Models.CidadeSemPontoTuristicoDto]]] GetCidades(System.String, System.String, Int32, Int32) on controller AppTurismoAPI.Controllers.CidadesController (AppTurismoAPI).
+2023-11-08 20:12:09.297 -03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-11-08 20:12:09.378 -03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2023-11-08 20:12:09.433 -03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2023-11-08 20:12:09.518 -03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-11-08 20:12:09.580 -03:00 [DBG] Execution plan of result filters (in the following order): ["None"]
+2023-11-08 20:12:09.644 -03:00 [DBG] Executing controller factory for controller AppTurismoAPI.Controllers.CidadesController (AppTurismoAPI)
+2023-11-08 20:12:09.755 -03:00 [DBG] Executed controller factory for controller AppTurismoAPI.Controllers.CidadesController (AppTurismoAPI)
+2023-11-08 20:12:09.829 -03:00 [DBG] Attempting to bind parameter 'nome' of type 'System.String' ...
+2023-11-08 20:12:09.927 -03:00 [DBG] Attempting to bind parameter 'nome' of type 'System.String' using the name '' in request data ...
+2023-11-08 20:12:10.429 -03:00 [DBG] Could not find a value in the request with name '' for binding parameter 'nome' of type 'System.String'.
+2023-11-08 20:12:10.502 -03:00 [DBG] Done attempting to bind parameter 'nome' of type 'System.String'.
+2023-11-08 20:12:10.610 -03:00 [DBG] Done attempting to bind parameter 'nome' of type 'System.String'.
+2023-11-08 20:12:10.717 -03:00 [DBG] Attempting to validate the bound parameter 'nome' of type 'System.String' ...
+2023-11-08 20:12:10.782 -03:00 [DBG] Done attempting to validate the bound parameter 'nome' of type 'System.String'.
+2023-11-08 20:12:10.878 -03:00 [DBG] Attempting to bind parameter 'filtro' of type 'System.String' ...
+2023-11-08 20:12:10.970 -03:00 [DBG] Attempting to bind parameter 'filtro' of type 'System.String' using the name '' in request data ...
+2023-11-08 20:12:11.100 -03:00 [DBG] Could not find a value in the request with name '' for binding parameter 'filtro' of type 'System.String'.
+2023-11-08 20:12:11.244 -03:00 [DBG] Done attempting to bind parameter 'filtro' of type 'System.String'.
+2023-11-08 20:12:11.289 -03:00 [DBG] Done attempting to bind parameter 'filtro' of type 'System.String'.
+2023-11-08 20:12:11.334 -03:00 [DBG] Attempting to validate the bound parameter 'filtro' of type 'System.String' ...
+2023-11-08 20:12:11.370 -03:00 [DBG] Done attempting to validate the bound parameter 'filtro' of type 'System.String'.
+2023-11-08 20:12:11.414 -03:00 [DBG] Attempting to bind parameter 'paginaNumero' of type 'System.Int32' ...
+2023-11-08 20:12:11.501 -03:00 [DBG] Attempting to bind parameter 'paginaNumero' of type 'System.Int32' using the name 'paginaNumero' in request data ...
+2023-11-08 20:12:11.581 -03:00 [DBG] Done attempting to bind parameter 'paginaNumero' of type 'System.Int32'.
+2023-11-08 20:12:11.677 -03:00 [DBG] Done attempting to bind parameter 'paginaNumero' of type 'System.Int32'.
+2023-11-08 20:12:11.783 -03:00 [DBG] Attempting to validate the bound parameter 'paginaNumero' of type 'System.Int32' ...
+2023-11-08 20:12:11.853 -03:00 [DBG] Done attempting to validate the bound parameter 'paginaNumero' of type 'System.Int32'.
+2023-11-08 20:12:11.938 -03:00 [DBG] Attempting to bind parameter 'paginaTamanho' of type 'System.Int32' ...
+2023-11-08 20:12:12.055 -03:00 [DBG] Attempting to bind parameter 'paginaTamanho' of type 'System.Int32' using the name 'paginaTamanho' in request data ...
+2023-11-08 20:12:12.201 -03:00 [DBG] Done attempting to bind parameter 'paginaTamanho' of type 'System.Int32'.
+2023-11-08 20:12:12.268 -03:00 [DBG] Done attempting to bind parameter 'paginaTamanho' of type 'System.Int32'.
+2023-11-08 20:12:12.303 -03:00 [DBG] Attempting to validate the bound parameter 'paginaTamanho' of type 'System.Int32' ...
+2023-11-08 20:12:12.399 -03:00 [DBG] Done attempting to validate the bound parameter 'paginaTamanho' of type 'System.Int32'.
+2023-11-08 20:12:13.721 -03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2023-11-08 20:12:13.801 -03:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2023-11-08 20:12:14.331 -03:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2023-11-08 20:12:15.862 -03:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-11-08 20:12:16.104 -03:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-11-08 20:12:16.152 -03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2023-11-08 20:12:16.281 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AppTurismoAPI.Models.CidadeSemPontoTuristicoDto, AppTurismoAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-11-08 20:12:16.355 -03:00 [INF] Executed action AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI) in 6709.4664ms
+2023-11-08 20:12:16.452 -03:00 [INF] Executed endpoint 'AppTurismoAPI.Controllers.CidadesController.GetCidades (AppTurismoAPI)'
+2023-11-08 20:12:16.516 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7251/api/cidades?paginaNumero=1&paginaTamanho=1 - - - 200 - application/json;+charset=utf-8 8709.1228ms
+2023-11-08 20:12:26.403 -03:00 [DBG] Connection id "0HMV0LVJ2AMD5" received FIN.
+2023-11-08 20:12:26.949 -03:00 [DBG] Connection id "0HMV0LVJ2AMD5" is closed. The last processed stream ID was 1.
+2023-11-08 20:12:26.958 -03:00 [DBG] The connection queue processing loop for 0HMV0LVJ2AMD5 completed.
+2023-11-08 20:12:27.146 -03:00 [DBG] Connection id "0HMV0LVJ2AMD5" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-08 20:12:27.189 -03:00 [DBG] Connection id "0HMV0LVJ2AMD5" stopped.

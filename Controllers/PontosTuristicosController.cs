@@ -2,6 +2,7 @@
 using AppTurismoAPI.Models;
 using AppTurismoAPI.Services;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Linq;
 
 namespace AppTurismoAPI.Controllers
 {
-
+    [Authorize]
     [Route("api/cidades/{cidadeId}/pontosturisticos")]
     [ApiController]
     public class PontosTuristicosController : ControllerBase
@@ -27,6 +28,7 @@ namespace AppTurismoAPI.Controllers
             _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<PontosTuristicosDto>>> GetPontosTuristicos(int cidadeId)
         {

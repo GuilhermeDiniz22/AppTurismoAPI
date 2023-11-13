@@ -12,6 +12,7 @@ namespace AppTurismoAPI.Services
         {
             _context = context ?? throw new ArgumentNullException(nameof(context));
         }
+
         public async Task<Cidade?> GetCidadeAsync(int cidadeId, bool incluiPontoTuristico)
         {
             if(incluiPontoTuristico)
@@ -22,20 +23,41 @@ namespace AppTurismoAPI.Services
             return await _context.Cidades.FirstOrDefaultAsync(c => c.Id == cidadeId);
         }
 
-        public async Task<IEnumerable<Cidade>> GetCidadesAsync()
+        public async Task<IEnumerable<Cidade>> GetCidades()
         {
             return await _context.Cidades.OrderBy(c => c.Nome).ToListAsync();
         }
 
-        public async Task<IEnumerable<Cidade>> GetCidadesAsync(string? nome) //metodo get cidades passando uma query string
+        public async Task<(IEnumerable<Cidade>, Metadados)> GetCidadesAsync(string? nome, string? filtro, int paginaNumero, int paginaTamanho) //metodo get cidades passando uma query string
         {
-            if (string.IsNullOrEmpty(nome))
+           
+            var colecao = _context.Cidades as IQueryable<Cidade>;
+
+            if (!string.IsNullOrEmpty(nome))
             {
-                return await GetCidadesAsync();
+                nome = nome.Trim();
+                colecao = colecao.Where(c => c.Nome == nome);
             }
 
-            nome = nome.Trim();
-            return await _context.Cidades.Where(c => c.Nome == nome).OrderBy(c => c.Nome).ToListAsync();
+            if (!string.IsNullOrEmpty(filtro))
+            {
+                filtro = filtro.Trim();
+                colecao = colecao.Where(c => c.Nome.Contains(filtro) || (c.Descricao != null && c.Descricao.Contains(filtro)));
+            }
+            var totalItens = await colecao.CountAsync();
+
+            var metadados = new Metadados(totalItens, paginaTamanho, paginaNumero);
+
+            var colecaoRetorno = await colecao.OrderBy(c => c.Nome).Skip(paginaTamanho * (paginaNumero - 1))
+                .Take(paginaTamanho).ToListAsync();
+
+            return (colecaoRetorno, metadados);
+
+        }
+
+        public async Task AddCidadeAsync(Cidade cidade)
+        {
+           await _context.Cidades.AddAsync(cidade);        
         }
 
         public async Task<IEnumerable<PontoTuristico>> GetPontoTuristicoAsync(int cidadeId)
@@ -71,6 +93,11 @@ namespace AppTurismoAPI.Services
         public void DeletarPontoTuristico(PontoTuristico pontoTuristico)
         {
             _context.Remove(pontoTuristico);
+        }
+
+        public void DeletarCidade(Cidade cidade)
+        {
+            _context.Remove(cidade);
         }
     }
 }

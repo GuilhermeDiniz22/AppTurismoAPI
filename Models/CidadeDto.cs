@@ -1,4 +1,6 @@
-﻿namespace AppTurismoAPI.Models
+﻿using System.Linq;
+
+namespace AppTurismoAPI.Models
 {
     public class CidadeDto
     {
@@ -8,17 +10,8 @@
 
         public string? Descricao { get; set;} 
 
-        public int NumeroDePontosTuristicos
-        {
-            get
-            {
-                return PontosTuristicos.Count; //retorn a contagem de numero de pontos turisticos
-            }
-        }
-
-
-        public ICollection<PontosTuristicosDto> PontosTuristicos { get; set; }
-        = new List<PontosTuristicosDto>(); //inicializar icollections para evitar referencias ao null
+        public IEnumerable<PontosTuristicosDto> PontosTuristicos { get; set; }
+  = new List<PontosTuristicosDto>(); //inicializar icollections para evitar referencias ao null
 
     }
 }
